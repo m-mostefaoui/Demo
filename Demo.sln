@@ -9,10 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{3CF672BF-F1EB-45BC-83C5-88E43792D78D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6E7C3451-2F3B-49DA-A2CF-23775E0C8008}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8A7D17B7-2F2B-4F68-9537-A3A3697BC4A2}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\Users\m.mostefaoui\spike\dotnet-docker-samples\dotnetapp-dev\.dockerignore = ..\..\..\Users\m.mostefaoui\spike\dotnet-docker-samples\dotnetapp-dev\.dockerignore
-		..\..\..\Users\m.mostefaoui\spike\dotnet-docker-samples\dotnetapp-dev\Dockerfile = ..\..\..\Users\m.mostefaoui\spike\dotnet-docker-samples\dotnetapp-dev\Dockerfile
+		.dockerignore = .dockerignore
+		Dockerfile = Dockerfile
 	EndProjectSection
 EndProject
 Global
